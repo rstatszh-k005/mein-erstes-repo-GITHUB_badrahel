@@ -40,5 +40,6 @@ vignettes/*.pdf
 
 # ignoriere folgende Dateien
 *.csv
+README.html
 
 
